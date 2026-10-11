@@ -1,0 +1,21 @@
+{
+  "name": "expressjs_student_server",
+  "version": "1.0.0",
+  "description": "Student Server created using Express.js",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ../code.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "student-server"
+  ],
+  "author": "Nimidithalli Nandu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
