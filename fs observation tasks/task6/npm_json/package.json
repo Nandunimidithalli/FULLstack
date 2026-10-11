@@ -1,0 +1,22 @@
+{
+  "name": "npm_json",
+  "version": "1.0.0",
+  "description": "NPM and package.json demonstration with Express and dependencies",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node code.js"
+  },
+  "keywords": [
+    "npm",
+    "package.json",
+    "express"
+  ],
+  "author": "Nimidithalli Nandu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^5.2.1"
+  }
+}
