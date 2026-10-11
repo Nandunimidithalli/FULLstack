@@ -1,0 +1,21 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Student Record Management System using MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "student-management"
+  ],
+  "author": "Nimidithalli Nandu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mongodb": "^7.7.0"
+  }
+}
